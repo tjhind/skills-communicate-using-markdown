@@ -6,3 +6,7 @@
 ``` javascript
 var myName = "Hello, my name is Tiah!";
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
